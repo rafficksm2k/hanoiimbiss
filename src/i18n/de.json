@@ -66,7 +66,7 @@
         "alt": "Knusprig frittiertes Hähnchen mit Dip-Soße"
       },
       "rolls": {
-        "name": "Frühlingsrollen",
+        "name": "Sommerrollen",
         "description": "Sommerrollen, Frühlingsrollen und vegetarische Mini-Herbstrollen.",
         "alt": "Vietnamesische Sommerrollen mit Garnelen, Reisnudeln und zwei Dip-Soßen"
       },
@@ -109,9 +109,24 @@
     "note": "Nach Absprache sind wir bei Feiern auch außerhalb dieser Zeiten erreichbar.",
     "closedLabel": "Geschlossen",
     "slots": [
-      { "id": "week", "label": "Mo.–Fr.", "value": "11:00–14:00 und 17:00–21:00", "closed": false },
-      { "id": "sun", "label": "So. & Feiertage", "value": "17:00–21:00", "closed": false },
-      { "id": "sat", "label": "Samstag", "value": "geschlossen", "closed": true }
+      {
+        "id": "week",
+        "label": "Mo.–Fr.",
+        "value": "11:00–14:00 und 17:00–21:00",
+        "closed": false
+      },
+      {
+        "id": "sun",
+        "label": "So. & Feiertage",
+        "value": "17:00–21:00",
+        "closed": false
+      },
+      {
+        "id": "sat",
+        "label": "Samstag",
+        "value": "geschlossen",
+        "closed": true
+      }
     ]
   },
   "contact": {
@@ -157,22 +172,64 @@
     "legendAllergens": "Allergene",
     "legendNote": "Nicht jede Zutat lässt sich in der Kennzeichnung abbilden. Bitte sagen Sie uns bei der Bestellung, wenn eine Allergie oder Unverträglichkeit vorliegt.",
     "additives": [
-      { "code": "1", "label": "Geschmacksverstärker" },
-      { "code": "2", "label": "Farbstoff" },
-      { "code": "3", "label": "Konservierungstoff" },
-      { "code": "4", "label": "Zitronen-Säure" },
-      { "code": "5", "label": "Antixidationsmittel" },
-      { "code": "6", "label": "Koffeinhaltig" },
-      { "code": "7", "label": "Süssungsmittel" },
-      { "code": "8", "label": "Phosphorsäure" }
+      {
+        "code": "1",
+        "label": "Geschmacksverstärker"
+      },
+      {
+        "code": "2",
+        "label": "Farbstoff"
+      },
+      {
+        "code": "3",
+        "label": "Konservierungstoff"
+      },
+      {
+        "code": "4",
+        "label": "Zitronen-Säure"
+      },
+      {
+        "code": "5",
+        "label": "Antixidationsmittel"
+      },
+      {
+        "code": "6",
+        "label": "Koffeinhaltig"
+      },
+      {
+        "code": "7",
+        "label": "Süssungsmittel"
+      },
+      {
+        "code": "8",
+        "label": "Phosphorsäure"
+      }
     ],
     "allergens": [
-      { "code": "a", "label": "Glutenhaltiges Getreide" },
-      { "code": "b", "label": "Krebstiere" },
-      { "code": "c", "label": "Fisch" },
-      { "code": "d", "label": "Erdnüsse" },
-      { "code": "e", "label": "Soia" },
-      { "code": "f", "label": "Eier" }
+      {
+        "code": "a",
+        "label": "Glutenhaltiges Getreide"
+      },
+      {
+        "code": "b",
+        "label": "Krebstiere"
+      },
+      {
+        "code": "c",
+        "label": "Fisch"
+      },
+      {
+        "code": "d",
+        "label": "Erdnüsse"
+      },
+      {
+        "code": "e",
+        "label": "Soia"
+      },
+      {
+        "code": "f",
+        "label": "Eier"
+      }
     ]
   },
   "filters": {
