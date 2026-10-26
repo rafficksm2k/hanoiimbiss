@@ -1,0 +1,1285 @@
+[
+  {
+    "number": "1",
+    "name": "Peking Suppe mit Hühnerfleisch",
+    "description": "Kennzeichnung: 1, 6, f.",
+    "category": "Suppen & Vorspeisen",
+    "price": "3,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "2",
+    "name": "Glasnudel Suppe mit Hühnerfleisch",
+    "description": "Kennzeichnung: 1.",
+    "category": "Suppen & Vorspeisen",
+    "price": "4,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "3",
+    "name": "Wan Tan Suppe mit Hühnerfleisch",
+    "description": "Kennzeichnung: 1, a.",
+    "category": "Suppen & Vorspeisen",
+    "price": "4,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "4",
+    "name": "Gemüse Suppe",
+    "description": "Kennzeichnung: 1.",
+    "category": "Suppen & Vorspeisen",
+    "price": "3,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "5",
+    "name": "Tom Yam Gai Suppe (scharf) mit Hühnerfleisch",
+    "description": "Mit Gemüse, wahlweise mit Hühnerfleisch oder Tofu. Auf Wunsch auch ohne Kokosmilch. Kennzeichnung: 1, 2, 3.",
+    "category": "Suppen & Vorspeisen",
+    "price": "4,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "5",
+    "name": "Tom Yam Gai Suppe (scharf) mit Tofu",
+    "description": "Mit Gemüse, wahlweise mit Hühnerfleisch oder Tofu. Auf Wunsch auch ohne Kokosmilch. Kennzeichnung: 1, 2, 3.",
+    "category": "Suppen & Vorspeisen",
+    "price": "4,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "6",
+    "name": "Tom Yam Gung Suppe (scharf) mit Garnelen",
+    "description": "Auf Wunsch auch ohne Kokosmilch. Kennzeichnung: 1, 2, 3, b.",
+    "category": "Suppen & Vorspeisen",
+    "price": "4,50",
+    "tags": []
+  },
+  {
+    "number": "7",
+    "name": "Große Frühlingsrollen mit Hühnerfleisch (2 St.)",
+    "description": "Kennzeichnung: 1.",
+    "category": "Suppen & Vorspeisen",
+    "price": "3,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "8",
+    "name": "Vegetarische Mini Herbstrollen (6 St.)",
+    "description": "Kennzeichnung: 1, a, e.",
+    "category": "Suppen & Vorspeisen",
+    "price": "3,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "9",
+    "name": "Gebackene Wan Tan mit Hühnerfleisch (6 St.)",
+    "description": "Kennzeichnung: 3, a.",
+    "category": "Suppen & Vorspeisen",
+    "price": "4,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "10",
+    "name": "Krabbenchips",
+    "description": "Kennzeichnung: 1, 4, b.",
+    "category": "Suppen & Vorspeisen",
+    "price": "2,00",
+    "tags": []
+  },
+  {
+    "number": "11",
+    "name": "Glasnudeln Salat mit Hühnerfleisch und Limetten-Soße",
+    "description": "Kennzeichnung: 1, 4, c.",
+    "category": "Suppen & Vorspeisen",
+    "price": "5,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "12",
+    "name": "Vietnamesischer Salat mit Limetten-Soße",
+    "description": "Kennzeichnung: c.",
+    "category": "Suppen & Vorspeisen",
+    "price": "4,00",
+    "tags": []
+  },
+  {
+    "number": "13",
+    "name": "Vietnamesische Frühlingsrollen (2 St.)",
+    "description": "Kennzeichnung: b.",
+    "category": "Suppen & Vorspeisen",
+    "price": "4,00",
+    "tags": []
+  },
+  {
+    "number": "14",
+    "name": "Sommerrollen mit Garnelen und Hühnerfleisch",
+    "description": "Mit Limetten-Soße. Dazu Hoisin-Soße mit Erdnuss oder Limetten-Soße. Kennzeichnung: b, c.",
+    "category": "Suppen & Vorspeisen",
+    "price": "5,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "14",
+    "name": "Sommerrollen mit Tofu",
+    "description": "Mit Limetten-Soße. Dazu Hoisin-Soße mit Erdnuss oder Limetten-Soße.",
+    "category": "Suppen & Vorspeisen",
+    "price": "5,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "20a",
+    "name": "Gebratene Nudeln mit Hühnerfleisch (Natur)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, a, e.",
+    "category": "Hauptspeisen",
+    "price": "9,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "20a",
+    "name": "Gebratene Nudeln mit Tofu (Natur)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, a, e.",
+    "category": "Hauptspeisen",
+    "price": "9,50",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "20a",
+    "name": "Gebratene Nudeln mit Garnelen (Natur)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, a, e.",
+    "category": "Hauptspeisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "20a",
+    "name": "Gebratene Nudeln mit Rindfleisch (Natur)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, a, e.",
+    "category": "Hauptspeisen",
+    "price": "11,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "20a",
+    "name": "Gebratene Nudeln mit Hähnchenbrust (Knusprig)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, a, e, 3, 4.",
+    "category": "Hauptspeisen",
+    "price": "10,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "20a",
+    "name": "Gebratene Nudeln mit Fischfilet (Knusprig)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, a, e, 3, 4, c.",
+    "category": "Hauptspeisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "20a",
+    "name": "Gebratene Nudeln mit Entenbrust (Knusprig)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, a, e, 3, 4.",
+    "category": "Hauptspeisen",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "20a",
+    "name": "Gebratene Nudeln mit Garnelen (Knusprig)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, a, e, 3, 4.",
+    "category": "Hauptspeisen",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "20b",
+    "name": "Gebratener Reis mit Hühnerfleisch (Natur)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, e.",
+    "category": "Hauptspeisen",
+    "price": "9,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "20b",
+    "name": "Gebratener Reis mit Tofu (Natur)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, e.",
+    "category": "Hauptspeisen",
+    "price": "9,50",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "20b",
+    "name": "Gebratener Reis mit Garnelen (Natur)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, e.",
+    "category": "Hauptspeisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "20b",
+    "name": "Gebratener Reis mit Rindfleisch (Natur)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, e.",
+    "category": "Hauptspeisen",
+    "price": "11,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "20b",
+    "name": "Gebratener Reis mit Hähnchenbrust (Knusprig)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, e, 3, 4, a.",
+    "category": "Hauptspeisen",
+    "price": "10,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "20b",
+    "name": "Gebratener Reis mit Fischfilet (Knusprig)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, e, 3, 4, a, c.",
+    "category": "Hauptspeisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "20b",
+    "name": "Gebratener Reis mit Entenbrust (Knusprig)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, e, 3, 4, a.",
+    "category": "Hauptspeisen",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "20b",
+    "name": "Gebratener Reis mit Garnelen (Knusprig)",
+    "description": "Mit Eier und Gemüse, dazu Süß-Sauer-Soße. Kennzeichnung: 1, e, 3, 4, a.",
+    "category": "Hauptspeisen",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "21",
+    "name": "Gebratene Udon Nudeln mit Hühnerfleisch (Natur)",
+    "description": "Mit verschiedenem Gemüse. Kennzeichnung: 1, 4, a.",
+    "category": "Japanische Nudeln",
+    "price": "11,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "21",
+    "name": "Gebratene Udon Nudeln mit Tofu (Natur)",
+    "description": "Mit verschiedenem Gemüse. Kennzeichnung: 1, 4, a.",
+    "category": "Japanische Nudeln",
+    "price": "11,50",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "21",
+    "name": "Gebratene Udon Nudeln mit Garnelen (Natur)",
+    "description": "Mit verschiedenem Gemüse. Kennzeichnung: 1, 4, a.",
+    "category": "Japanische Nudeln",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "21",
+    "name": "Gebratene Udon Nudeln mit Rindfleisch (Natur)",
+    "description": "Mit verschiedenem Gemüse. Kennzeichnung: 1, 4, a.",
+    "category": "Japanische Nudeln",
+    "price": "12,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "21",
+    "name": "Gebratene Udon Nudeln mit Hähnchenbrust (Knusprig)",
+    "description": "Mit verschiedenem Gemüse. Kennzeichnung: 1, 4, a.",
+    "category": "Japanische Nudeln",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "21",
+    "name": "Gebratene Udon Nudeln mit Entenbrust (Knusprig)",
+    "description": "Mit verschiedenem Gemüse. Kennzeichnung: 1, 4, a, 3.",
+    "category": "Japanische Nudeln",
+    "price": "13,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "21",
+    "name": "Gebratene Udon Nudeln mit Garnelen (Knusprig)",
+    "description": "Mit verschiedenem Gemüse. Kennzeichnung: 1, 4, a, 3.",
+    "category": "Japanische Nudeln",
+    "price": "13,00",
+    "tags": []
+  },
+  {
+    "number": "30",
+    "name": "Chop Suey Soße mit Hühnerfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Austernsoße und Morcheln. Kennzeichnung: 1, 3, 4, b, e.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "30",
+    "name": "Chop Suey Soße mit Tofu (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Austernsoße und Morcheln. Kennzeichnung: 1, 3, 4, b, e.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "30",
+    "name": "Chop Suey Soße mit Rindfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Austernsoße und Morcheln. Kennzeichnung: 1, 3, 4, b, e.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "30",
+    "name": "Chop Suey Soße mit Garnelen (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Austernsoße und Morcheln. Kennzeichnung: 1, 3, 4, b, e.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": []
+  },
+  {
+    "number": "31",
+    "name": "Kungpao mit Hühnerfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit leicht scharfer Hoisinsoße. Kennzeichnung: 1, 2, 3, 4, e.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "31",
+    "name": "Kungpao mit Tofu (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit leicht scharfer Hoisinsoße. Kennzeichnung: 1, 2, 3, 4, e.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "31",
+    "name": "Kungpao mit Rindfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit leicht scharfer Hoisinsoße. Kennzeichnung: 1, 2, 3, 4, e.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "31",
+    "name": "Kungpao mit Garnelen (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit leicht scharfer Hoisinsoße. Kennzeichnung: 1, 2, 3, 4, e.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": []
+  },
+  {
+    "number": "32",
+    "name": "Süßsauersoße mit Hühnerfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Ananas und Ingwer. Kennzeichnung: 1, 2, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "32",
+    "name": "Süßsauersoße mit Tofu (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Ananas und Ingwer. Kennzeichnung: 1, 2, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "32",
+    "name": "Süßsauersoße mit Rindfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Ananas und Ingwer. Kennzeichnung: 1, 2, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "32",
+    "name": "Süßsauersoße mit Garnelen (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Ananas und Ingwer. Kennzeichnung: 1, 2, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": []
+  },
+  {
+    "number": "33",
+    "name": "Curry mit Hühnerfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Leicht scharf, wahlweise mit oder ohne Kokosmilch. Kennzeichnung: 1, 2, 3, 4.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "33",
+    "name": "Curry mit Tofu (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Leicht scharf, wahlweise mit oder ohne Kokosmilch. Kennzeichnung: 1, 2, 3, 4.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "33",
+    "name": "Curry mit Rindfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Leicht scharf, wahlweise mit oder ohne Kokosmilch. Kennzeichnung: 1, 2, 3, 4.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "33",
+    "name": "Curry mit Garnelen (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Leicht scharf, wahlweise mit oder ohne Kokosmilch. Kennzeichnung: 1, 2, 3, 4.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": []
+  },
+  {
+    "number": "34",
+    "name": "Erdnusssoße mit Hühnerfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Kennzeichnung: 1, 3, 4.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "34",
+    "name": "Erdnusssoße mit Tofu (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Kennzeichnung: 1, 3, 4.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "9,50",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "34",
+    "name": "Erdnusssoße mit Rindfleisch (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Kennzeichnung: 1, 3, 4.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "34",
+    "name": "Erdnusssoße mit Garnelen (Natur)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Kennzeichnung: 1, 3, 4.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "11,00",
+    "tags": []
+  },
+  {
+    "number": "40",
+    "name": "Chop Suey Soße mit Hühnerbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Austernsoße und Morcheln. Kennzeichnung: 1, 3, 4, b, e, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "40",
+    "name": "Chop Suey Soße mit Fischfilet (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Austernsoße und Morcheln. Kennzeichnung: 1, 3, 4, b, e, a, c.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "40",
+    "name": "Chop Suey Soße mit Entenbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Austernsoße und Morcheln. Kennzeichnung: 1, 3, 4, b, e, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "40",
+    "name": "Chop Suey Soße mit Garnelen (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Austernsoße und Morcheln. Kennzeichnung: 1, 3, 4, b, e, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "41",
+    "name": "Kungpao mit Hühnerbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit leicht scharfer Hoisinsoße. Kennzeichnung: 1, 2, 3, 4, e, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "41",
+    "name": "Kungpao mit Fischfilet (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit leicht scharfer Hoisinsoße. Kennzeichnung: 1, 2, 3, 4, e, a, c.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "41",
+    "name": "Kungpao mit Entenbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit leicht scharfer Hoisinsoße. Kennzeichnung: 1, 2, 3, 4, e, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "41",
+    "name": "Kungpao mit Garnelen (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit leicht scharfer Hoisinsoße. Kennzeichnung: 1, 2, 3, 4, e, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "42",
+    "name": "Süßsauersoße mit Hühnerbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Ananas und Ingwer. Kennzeichnung: 1, 2, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "42",
+    "name": "Süßsauersoße mit Fischfilet (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Ananas und Ingwer. Kennzeichnung: 1, 2, 4, a, c.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "42",
+    "name": "Süßsauersoße mit Entenbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Ananas und Ingwer. Kennzeichnung: 1, 2, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "42",
+    "name": "Süßsauersoße mit Garnelen (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Mit Ananas und Ingwer. Kennzeichnung: 1, 2, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "43",
+    "name": "Curry mit Hühnerbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Leicht scharf, wahlweise mit oder ohne Kokosmilch. Kennzeichnung: 1, 2, 3, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "43",
+    "name": "Curry mit Fischfilet (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Leicht scharf, wahlweise mit oder ohne Kokosmilch. Kennzeichnung: 1, 2, 3, 4, a, c.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "43",
+    "name": "Curry mit Entenbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Leicht scharf, wahlweise mit oder ohne Kokosmilch. Kennzeichnung: 1, 2, 3, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "43",
+    "name": "Curry mit Garnelen (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Leicht scharf, wahlweise mit oder ohne Kokosmilch. Kennzeichnung: 1, 2, 3, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "44",
+    "name": "Erdnusssoße mit Hühnerbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Kennzeichnung: 1, 3, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "44",
+    "name": "Erdnusssoße mit Fischfilet (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Kennzeichnung: 1, 3, 4, a, c.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "10,50",
+    "tags": []
+  },
+  {
+    "number": "44",
+    "name": "Erdnusssoße mit Entenbrust (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Kennzeichnung: 1, 3, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "44",
+    "name": "Erdnusssoße mit Garnelen (Knusprig)",
+    "description": "Mit versch. angebratenem Gemüse und gekochter Reis als Beilagen. Kennzeichnung: 1, 3, 4, a.",
+    "category": "Chinesische Wok-Speisen",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "50",
+    "name": "Pho Hanoi",
+    "description": "Große Reisbandnudelsuppe mit Rindfleisch oder Hühnerfleisch. Kennzeichnung: 1.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "51",
+    "name": "My Tom",
+    "description": "Große Nudelsuppe mit Hühnerfleisch oder Garnelen (Süß-Sauer-Scharf). Kennzeichnung: 1, 4.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "11,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "52",
+    "name": "Mien Xao",
+    "description": "Gebratene Glasnudel mit Hühnerfleisch, Gemüse und Orangenblätter. Kennzeichnung: 1.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "11,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "53",
+    "name": "Reisbandnudeln",
+    "description": "Gebraten mit versch. Gemüse und Hühnerfleisch. Kennzeichnung: 1.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "54",
+    "name": "Ga Xao Sa Ot",
+    "description": "Gebratener Hühnerfleisch mit Zitronengras-Safe, Gemüse und Orangenblätter. Leicht scharf, Reis als Beilage. Kennzeichnung: 1, 2, 3, 4, c.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "11,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "55",
+    "name": "Bo Xao Gung Hanh",
+    "description": "Gebratener Rindfleisch mit Ingwer, Zwiebeln und grünen Bohnen. Leicht scharf, Reis als Beilage. Kennzeichnung: 1, 2, 3, 4.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "11,50",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "56",
+    "name": "Hühner- oder Rindfleisch",
+    "description": "Gebraten mit Zwiebeln, Tomaten, Morcheln und Ingwer. Leicht scharf, Reis als Beilage, wahlweise mit oder ohne Knoblauch. Kennzeichnung: 1, 2, 3, 4.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "11,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "57",
+    "name": "Dau Sot Ca",
+    "description": "Gebratener Tofu mit Tomaten, Zwiebeln und Ingwer. Kennzeichnung: 1, e.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "11,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "58",
+    "name": "Paniertes Hähnchen oder Fischfilet",
+    "description": "Mit frischem Salat und Süßsauersoße. Leicht scharf, Reis als Beilage. Kennzeichnung: 1, 4, c.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "59a",
+    "name": "Bun Bo Nam Bo",
+    "description": "Lauwarme Reisnudeln mit Salat, Kräuter, eingelegte Karotten, Gurken, Erdnuss und Limetten-Soße. Rindfleisch mariniert mit Zitronengras. Kennzeichnung: 1, 4, 7, d.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "12,50",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "59b",
+    "name": "Bun Nem",
+    "description": "Lauwarme Reisnudeln mit Salat, Kräuter, eingelegte Karotten, Gurken, Erdnuss und Limetten-Soße. Mit vietnamesischen Frühlingsrollen. Kennzeichnung: 1, 4, 7, d, b.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "11,50",
+    "tags": []
+  },
+  {
+    "number": "59c",
+    "name": "Bun Vit",
+    "description": "Lauwarme Reisnudeln mit Salat, Kräuter, eingelegte Karotten, Gurken, Erdnuss und Limetten-Soße. Mit knuspriger Entenbrust. Kennzeichnung: 1, 4, 7, d, a.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "13,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "59d",
+    "name": "Bun Ga",
+    "description": "Lauwarme Reisnudeln mit Salat, Kräuter, eingelegte Karotten, Gurken, Erdnuss und Limetten-Soße. Mit knusprige Hähnchenbrust. Kennzeichnung: 1, 4, 7, d, a.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "59e",
+    "name": "Bun Dau",
+    "description": "Lauwarme Reisnudeln mit Salat, Kräuter, eingelegte Karotten, Gurken, Erdnuss und Limetten-Soße. Mit gebratenem Tofu und Zitronengras. Kennzeichnung: 1, 4, 7, d, e.",
+    "category": "Vietnamesische Spezialitäten",
+    "price": "12,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "60",
+    "name": "Matsamen Curry mit Hühnerfleisch",
+    "description": "Mit Tomaten, Karotten, Zwiebeln, Thai Basilikum und Kokosmilch, wahlweise mit Kartoffeln oder Gemüse. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, d.",
+    "category": "Thailändische Gerichte",
+    "price": "11,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "61",
+    "name": "Rotem Curry mit Hühnerfleisch",
+    "description": "Mit Tomaten, Lychee, Ananas, Thai Basilikum und Kokosmilch. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4.",
+    "category": "Thailändische Gerichte",
+    "price": "11,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "61",
+    "name": "Rotem Curry mit Garnelen",
+    "description": "Mit Tomaten, Lychee, Ananas, Thai Basilikum und Kokosmilch. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4.",
+    "category": "Thailändische Gerichte",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "61",
+    "name": "Rotem Curry mit Rindfleisch",
+    "description": "Mit Tomaten, Lychee, Ananas, Thai Basilikum und Kokosmilch. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4.",
+    "category": "Thailändische Gerichte",
+    "price": "12,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "62",
+    "name": "Rotem Curry mit Hühnerfleisch (Natur)",
+    "description": "Mit versch. Gemüse, Thai Basilikum und Kokosmilch. Auf Wunsch auch ohne Kokosmilch. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4.",
+    "category": "Thailändische Gerichte",
+    "price": "11,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "62",
+    "name": "Rotem Curry mit Rindfleisch (Natur)",
+    "description": "Mit versch. Gemüse, Thai Basilikum und Kokosmilch. Auf Wunsch auch ohne Kokosmilch. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4.",
+    "category": "Thailändische Gerichte",
+    "price": "12,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "62",
+    "name": "Rotem Curry mit Hühnerbrust (Knusprig)",
+    "description": "Mit versch. Gemüse, Thai Basilikum und Kokosmilch. Auf Wunsch auch ohne Kokosmilch. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4, a.",
+    "category": "Thailändische Gerichte",
+    "price": "12,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "62",
+    "name": "Rotem Curry mit Entenbrust (Knusprig)",
+    "description": "Mit versch. Gemüse, Thai Basilikum und Kokosmilch. Auf Wunsch auch ohne Kokosmilch. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4, a.",
+    "category": "Thailändische Gerichte",
+    "price": "13,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "62",
+    "name": "Rotem Curry mit Garnelen (Knusprig)",
+    "description": "Mit versch. Gemüse, Thai Basilikum und Kokosmilch. Auf Wunsch auch ohne Kokosmilch. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4, a.",
+    "category": "Thailändische Gerichte",
+    "price": "12,00",
+    "tags": []
+  },
+  {
+    "number": "63",
+    "name": "Hühner- oder Rindfleisch",
+    "description": "Gebraten mit Knoblauch, grünen Bohnen, Zwiebeln, Thai Soße und Basilikum. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4.",
+    "category": "Thailändische Gerichte",
+    "price": "11,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "64",
+    "name": "Hühner- oder Rindfleisch mit Zironengras",
+    "description": "Gebraten mit Zironengras und versch. Gemüse in Original Thaisoße. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4.",
+    "category": "Thailändische Gerichte",
+    "price": "11,50",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "65",
+    "name": "Knuspriges Fischfilet",
+    "description": "Mit versch. Gemüse und Tom Yum Soße. Gekochter Reis als Beilage. Kennzeichnung: 1, 4, a, c.",
+    "category": "Thailändische Gerichte",
+    "price": "11,00",
+    "tags": []
+  },
+  {
+    "number": "66",
+    "name": "Knusprige Ente",
+    "description": "Mit Tomaten, Zwiebeln, Ananas, Rotem Curry und scharfer Tom Yum Süßsauersoße. Gekochter Reis als Beilage. Kennzeichnung: 1, 3, 4, a.",
+    "category": "Thailändische Gerichte",
+    "price": "13,00",
+    "tags": [
+      "Fleisch",
+      "Ente"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Pad Thai Nudeln",
+    "description": "Mit Garnellen oder ausgewähltem Fleisch, Sojasprossen, Erdnüsse und Thai Basilikum. Kennzeichnung: 1, 4, d.",
+    "category": "Thailändische Gerichte",
+    "price": "13,00",
+    "tags": [
+      "Fleisch"
+    ]
+  },
+  {
+    "number": "70",
+    "name": "Gebratene Nudeln",
+    "description": "Mit Eier und Gemüse. Kennzeichnung: 1, a, e.",
+    "category": "Vegetarische Gerichte",
+    "price": "8,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "71",
+    "name": "Gebratener Reis",
+    "description": "Mit Eier und Gemüse. Kennzeichnung: 1, e.",
+    "category": "Vegetarische Gerichte",
+    "price": "8,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "72",
+    "name": "Verschiedenes Gemüse",
+    "description": "Gebraten mit selbst ausgewählter Soße und Reis als Beilage. Soßen: Chop Suey (1, 3, 4, b, e), gelbe Currysoße (1, 2, 3, 4), Kung Pao (1, 2, 3, 4, e), Süßsauer (1, 2, 4, a), Erdnusssoße (1, 3, 4).",
+    "category": "Vegetarische Gerichte",
+    "price": "8,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "73",
+    "name": "Verschiedenes Gemüse in rotem Curry",
+    "description": "Gebraten in rotem Curry und Kokosmilch (scharf), dazu Reis als Beilage. Kennzeichnung: 1, 3.",
+    "category": "Vegetarische Gerichte",
+    "price": "8,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Mit Tofu",
+    "description": "Aufpreis. Auf Wunsch zu den vegetarischen Gerichten. Kennzeichnung: e.",
+    "category": "Extras",
+    "price": "2,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Mit gebratenem Nudeln oder Reis statt gekochtem Reis",
+    "description": "Mit gebratenem Nudeln (Kennzeichnung: 1, a, e) oder Reis (Kennzeichnung: 1, e) statt gekochtem Reis.",
+    "category": "Extras",
+    "price": "2,00",
+    "tags": []
+  },
+  {
+    "number": "",
+    "name": "Knusprig panierter Hühnerbrust",
+    "description": "Aufpreis. Kennzeichnung: a.",
+    "category": "Extras",
+    "price": "2,00",
+    "tags": [
+      "Fleisch",
+      "Hähnchen"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Zusätzliche Portion Reis oder Soße",
+    "description": "Aufpreis.",
+    "category": "Extras",
+    "price": "2,00",
+    "tags": []
+  },
+  {
+    "number": "",
+    "name": "Nachverpackung",
+    "description": "",
+    "category": "Extras",
+    "price": "1,50",
+    "tags": []
+  },
+  {
+    "number": "",
+    "name": "Gebackene Banane mit Honig",
+    "description": "Kennzeichnung: a.",
+    "category": "Nachspeise",
+    "price": "3,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Lychee Früchte",
+    "description": "",
+    "category": "Nachspeise",
+    "price": "3,00",
+    "tags": [
+      "Vegetarisch"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Mineralwasser, 0,50 l Flasche",
+    "description": "",
+    "category": "Alkoholfreie Getränke",
+    "price": "2,00",
+    "tags": [
+      "Getränke",
+      "Alkoholfrei"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Mineralwasser, 1,00 l Flasche",
+    "description": "",
+    "category": "Alkoholfreie Getränke",
+    "price": "3,00",
+    "tags": [
+      "Getränke",
+      "Alkoholfrei"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Cola / Fanta / Sprite / Mezzo-Mix, 0,33 l Dose",
+    "description": "Kennzeichnung: Cola 2, 6; Fanta 2, 5; Sprite 5; Mezzo-Mix 2, 6.",
+    "category": "Alkoholfreie Getränke",
+    "price": "2,00",
+    "tags": [
+      "Getränke",
+      "Alkoholfrei"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Cola Zero / Cola Light, 1,00 l Flasche",
+    "description": "Kennzeichnung: 2, 6.",
+    "category": "Alkoholfreie Getränke",
+    "price": "4,00",
+    "tags": [
+      "Getränke",
+      "Alkoholfrei"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Lycheesaft / Mangosaft, 0,25 l Flasche",
+    "description": "",
+    "category": "Alkoholfreie Getränke",
+    "price": "3,00",
+    "tags": [
+      "Getränke",
+      "Alkoholfrei"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Lycheesaft / Mangosaft, 1,00 l Flasche",
+    "description": "",
+    "category": "Alkoholfreie Getränke",
+    "price": "5,00",
+    "tags": [
+      "Getränke",
+      "Alkoholfrei"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Stuttgarter Hofbräu, 0,50 l Flasche",
+    "description": "Nur zum Mitnehmen.",
+    "category": "Bier",
+    "price": "2,50",
+    "tags": [
+      "Getränke",
+      "Bier"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Tsing-Tao Bier aus China, 0,33 l Flasche",
+    "description": "Nur zum Mitnehmen.",
+    "category": "Bier",
+    "price": "3,00",
+    "tags": [
+      "Getränke",
+      "Bier"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Rot-/Rose-/Weißwein, 1,00 l Flasche",
+    "description": "Nur zum Mitnehmen.",
+    "category": "Wein",
+    "price": "10,00",
+    "tags": [
+      "Getränke",
+      "Wein"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Pflaumenwein, 0,20 l Flasche",
+    "description": "Nur zum Mitnehmen.",
+    "category": "Wein",
+    "price": "3,00",
+    "tags": [
+      "Getränke",
+      "Wein"
+    ]
+  },
+  {
+    "number": "",
+    "name": "Pflaumenwein, 0,50 l Flasche",
+    "description": "Nur zum Mitnehmen.",
+    "category": "Wein",
+    "price": "5,00",
+    "tags": [
+      "Getränke",
+      "Wein"
+    ]
+  }
+]

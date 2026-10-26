@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "homeTitle": "Hanoi Asia Imbiss | Vietnam, Thai & China in Filderstadt",
+    "homeDescription": "Hanoi Asia Imbiss in Filderstadt: vietnamesische, thailändische und chinesische Küche. Speisekarte, Öffnungszeiten und telefonische Bestellung.",
+    "menuTitle": "Speisekarte | Hanoi Asia Imbiss",
+    "menuDescription": "Die Speisekarte von Hanoi Asia Imbiss: Suppen, Nudeln, Reis, Wok, vietnamesische und thailändische Gerichte, Vegetarisches und Getränke.",
+    "hoursTitle": "Öffnungszeiten | Hanoi Asia Imbiss",
+    "hoursDescription": "Öffnungszeiten vom Hanoi Asia Imbiss in Filderstadt: Mo.–Fr. mittags und abends, sonntags abends, samstags geschlossen.",
+    "contactTitle": "Kontakt | Hanoi Asia Imbiss",
+    "contactDescription": "Hanoi Asia Imbiss, Harthäuser Hauptstraße 35, 70794 Filderstadt. Bestellungen nur telefonisch unter 07158 98 68311.",
+    "imprintTitle": "Impressum | Hanoi Asia Imbiss",
+    "imprintDescription": "Impressum von Hanoi Asia Imbiss: Huynh Van Duc, Harthäuser Hauptstraße 35, 70794 Filderstadt.",
+    "privacyTitle": "Datenschutz | Hanoi Asia Imbiss",
+    "privacyDescription": "Datenschutzhinweise für die Website des Hanoi Asia Imbiss in Filderstadt.",
+    "adminTitle": "Verwaltung | Hanoi Asia Imbiss",
+    "adminDescription": "Interner Bereich für Hinweise auf der Website des Hanoi Asia Imbiss.",
+    "notFoundTitle": "Seite nicht gefunden | Hanoi Asia Imbiss",
+    "notFoundDescription": "Diese Seite gibt es auf der Website des Hanoi Asia Imbiss nicht."
+  },
+  "nav": {
+    "primary": "Hauptnavigation",
+    "home": "Startseite",
+    "menu": "Speisekarte",
+    "hours": "Öffnungszeiten",
+    "contact": "Kontakt",
+    "language": "Sprache",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "skip": "Zum Inhalt springen",
+    "homeLink": "Hanoi Asia Imbiss, zur Startseite"
+  },
+  "hero": {
+    "eyebrow": "Filderstadt",
+    "title": "HANOI ASIA IMBISS",
+    "sub": "Vietnam – Thai – China Spezialitäten aus Fernost",
+    "call": "Jetzt Anrufen",
+    "menu": "Speisekarte ansehen",
+    "imageAlt": "Schüssel Pho mit Rindfleisch, Reisnudeln, Frühlingszwiebeln und Kräutern"
+  },
+  "facts": [
+    {
+      "title": "Frisch zubereitet",
+      "text": "Die Gerichte werden frisch zubereitet."
+    },
+    {
+      "title": "Ohne Glutamat",
+      "text": "Auf Wunsch kochen wir ohne Glutamat."
+    },
+    {
+      "title": "Telefonische Bestellung",
+      "text": "Bestellungen nehmen wir nur am Telefon an."
+    }
+  ],
+  "highlights": {
+    "eyebrow": "Aus der Küche",
+    "title": "Acht Klassiker",
+    "intro": "Gerichte, die unsere Küche ausmachen. Die Namen stehen wie auf der Speisekarte.",
+    "prev": "Vorherige Empfehlung",
+    "next": "Nächste Empfehlung",
+    "pause": "Automatischen Wechsel anhalten",
+    "items": {
+      "chicken": {
+        "name": "Knuspriges Hähnchen",
+        "description": "Knusprig ausgebackene Hähnchenbrust, zu Nudeln, Reis oder aus dem Wok.",
+        "alt": "Knusprig frittiertes Hähnchen mit Dip-Soße"
+      },
+      "rolls": {
+        "name": "Frühlingsrollen",
+        "description": "Sommerrollen, Frühlingsrollen und vegetarische Mini-Herbstrollen.",
+        "alt": "Vietnamesische Sommerrollen mit Garnelen, Reisnudeln und zwei Dip-Soßen"
+      },
+      "noodles": {
+        "name": "Gebratene Nudeln",
+        "description": "Gebratene Nudeln mit Ei und Gemüse, natur oder knusprig belegt.",
+        "alt": "Gebratene Nudeln mit Gemüse auf einem Holzteller"
+      },
+      "rice": {
+        "name": "Gebratener Reis",
+        "description": "Gebratener Reis mit Ei und Gemüse.",
+        "alt": "Teller mit gebratenem Reis, Ei, Erbsen und Gemüse"
+      },
+      "beef": {
+        "name": "Rindfleisch Spezial",
+        "description": "Rindfleisch aus dem Wok, als Pho oder in vietnamesischen Schalen.",
+        "alt": "Aufgeschnittenes Rindfleisch mit Kräutern, Chili und Erdnüssen"
+      },
+      "duck": {
+        "name": "Ente Knusprig",
+        "description": "Mit Tomaten, Zwiebeln, Ananas, rotem Curry und scharfer Tom-Yum-Süßsauersoße.",
+        "alt": "Aufgeschnittene knusprige Ente mit Gurke, Lauch, Pfannkuchen und Soßen"
+      },
+      "curry": {
+        "name": "Vegetarisches Curry",
+        "description": "Gemüse in rotem Curry mit Kokosmilch, dazu Reis.",
+        "alt": "Rotes Curry mit Gemüse, Thai-Basilikum und Chili"
+      },
+      "drinks": {
+        "name": "Getränke",
+        "description": "Mineralwasser, Säfte, Softdrinks, dazu Bier und Wein zum Mitnehmen.",
+        "alt": "Glas Eistee mit Eis, Limette und Minze"
+      }
+    }
+  },
+  "hours": {
+    "eyebrow": "Wann wir da sind",
+    "title": "Öffnungszeiten",
+    "intro": "Mittag und Abend unter der Woche, sonntags und an Feiertagen am Abend. Samstags bleibt die Küche zu.",
+    "note": "Nach Absprache sind wir bei Feiern auch außerhalb dieser Zeiten erreichbar.",
+    "closedLabel": "Geschlossen",
+    "slots": [
+      { "id": "week", "label": "Mo.–Fr.", "value": "11:00–14:00 und 17:00–21:00", "closed": false },
+      { "id": "sun", "label": "So. & Feiertage", "value": "17:00–21:00", "closed": false },
+      { "id": "sat", "label": "Samstag", "value": "geschlossen", "closed": true }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Bestellen",
+    "title": "Kontakt",
+    "intro": "Bestellungen nur telefonisch. Es gibt keine Online-Bestellung.",
+    "phoneLabel": "Telefon",
+    "call": "Jetzt anrufen",
+    "addressLabel": "Adresse",
+    "emailLabel": "E-Mail",
+    "mapTitle": "Karte: Hanoi Asia Imbiss, Harthäuser Hauptstraße 35, 70794 Filderstadt",
+    "party": "Für Feiern und den Partyservice sprechen Sie uns telefonisch an.",
+    "takeaway": "Alle Speisen gibt es auch zum Mitnehmen."
+  },
+  "home": {
+    "hoursCta": "Alle Zeiten",
+    "visitTitle": "Vorbeikommen oder anrufen",
+    "visitText": "Der Imbiss liegt in der Harthäuser Hauptstraße in Filderstadt. Zum Bestellen reicht ein Anruf."
+  },
+  "menu": {
+    "eyebrow": "Die Karte",
+    "title": "Speisekarte",
+    "intro": "Alle Gerichte stehen so auf der Karte, wie sie gedruckt sind. Varianten mit eigenem Preis sind eigene Zeilen.",
+    "searchLabel": "Speisekarte durchsuchen",
+    "searchPlaceholder": "z. B. Nudeln",
+    "sortLabel": "Sortieren nach",
+    "sortNumber": "Nummer",
+    "sortName": "Name",
+    "sortPrice": "Preis",
+    "dish": "Gericht",
+    "dishes": "Gerichte",
+    "empty": "Keine Gerichte für diese Suche.",
+    "colNumber": "Nr.",
+    "colName": "Gericht",
+    "colDescription": "Beschreibung",
+    "colCategory": "Kategorie",
+    "colPrice": "Preis",
+    "filtersLabel": "Filtern",
+    "vat": "Für das Speisen im Lokal fallen zusätzlich 19 % MwSt. an.",
+    "wish": "Wir kochen nach Ihrem Wunsch. Bitte fragen Sie nach.",
+    "legendTitle": "Zusatzstoffe und Allergene",
+    "legendAdditives": "Zutaten und Stoffe",
+    "legendAllergens": "Allergene",
+    "legendNote": "Nicht jede Zutat lässt sich in der Kennzeichnung abbilden. Bitte sagen Sie uns bei der Bestellung, wenn eine Allergie oder Unverträglichkeit vorliegt.",
+    "additives": [
+      { "code": "1", "label": "Geschmacksverstärker" },
+      { "code": "2", "label": "Farbstoff" },
+      { "code": "3", "label": "Konservierungstoff" },
+      { "code": "4", "label": "Zitronen-Säure" },
+      { "code": "5", "label": "Antixidationsmittel" },
+      { "code": "6", "label": "Koffeinhaltig" },
+      { "code": "7", "label": "Süssungsmittel" },
+      { "code": "8", "label": "Phosphorsäure" }
+    ],
+    "allergens": [
+      { "code": "a", "label": "Glutenhaltiges Getreide" },
+      { "code": "b", "label": "Krebstiere" },
+      { "code": "c", "label": "Fisch" },
+      { "code": "d", "label": "Erdnüsse" },
+      { "code": "e", "label": "Soia" },
+      { "code": "f", "label": "Eier" }
+    ]
+  },
+  "filters": {
+    "all": "Alle",
+    "Vegetarisch": "Vegetarisch",
+    "Fleisch": "Fleisch",
+    "Hähnchen": "Hähnchen",
+    "Ente": "Ente",
+    "Suppen & Vorspeisen": "Suppen & Vorspeisen",
+    "Hauptspeisen": "Hauptspeisen",
+    "Japanische Nudeln": "Japanische Nudeln",
+    "Chinesische Wok-Speisen": "Chinesische Wok-Speisen",
+    "Vietnamesische Spezialitäten": "Vietnamesische Spezialitäten",
+    "Thailändische Gerichte": "Thailändische Gerichte",
+    "Vegetarische Gerichte": "Vegetarische Gerichte",
+    "Extras": "Extras",
+    "Nachspeise": "Nachspeise",
+    "Getränke": "Getränke",
+    "Alkoholfrei": "Alkoholfrei",
+    "Bier": "Bier",
+    "Wein": "Wein"
+  },
+  "footer": {
+    "blurb": "Vietnam, Thai und China. Spezialitäten aus Fernost in Filderstadt.",
+    "hours": "Öffnungszeiten",
+    "contact": "Kontakt",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "rights": "© Hanoi Asia Imbiss"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "intro": "Angaben, wie sie auf hanoi-asia-imbiss.de veröffentlicht sind.",
+    "missing": "Ein Registereintrag und eine Umsatzsteuer-Identifikationsnummer sind dort nicht genannt."
+  },
+  "privacy": {
+    "title": "Datenschutz",
+    "controllerTitle": "Verantwortlicher",
+    "controllerBody": "Verantwortlich für diese Website ist der auf der Impressumsseite genannte Inhaber.",
+    "siteTitle": "Diese Website",
+    "siteBody": "Die Seiten zeigen Speisekarte, Öffnungszeiten und Kontaktdaten. Es gibt keine Online-Bestellung und kein Gäste-Konto. Es werden keine Analyse- oder Werbe-Werkzeuge eingesetzt.",
+    "hostTitle": "Hosting",
+    "hostBody": "Beim Aufruf kann der jeweilige Hosting-Anbieter technisch notwendige Verbindungsdaten verarbeiten, insbesondere die IP-Adresse, Datum und Uhrzeit sowie die aufgerufene Adresse. Rechtsgrundlage ist Artikel 6 Absatz 1 Buchstabe f DSGVO, der Betrieb und die Sicherheit der Website.",
+    "localTitle": "Lokale Speicherung",
+    "localBody": "Im Browser dieses Geräts können die gewählte Sprache und ein Hinweistext für die Leiste über der Navigation gespeichert werden. Nach einer Anmeldung im nicht verlinkten Verwaltungsbereich wird dort zusätzlich ein Sitzungskennzeichen abgelegt. Es werden dabei keine Bestelldaten übertragen. Sie können die Einträge in den Einstellungen Ihres Browsers löschen.",
+    "mapTitle": "Karte",
+    "mapBody": "Auf der Kontaktseite ist eine Karte von Google eingebunden. Beim Laden kann Google Ireland Limited die IP-Adresse verarbeiten und Cookies setzen.",
+    "google": "Datenschutzhinweise von Google",
+    "phoneTitle": "Telefon",
+    "phoneBody": "Wenn Sie eine Nummer antippen, öffnet Ihr Gerät die Telefonfunktion. Über diese Website wird dabei kein Formular gesendet.",
+    "rightsTitle": "Ihre Rechte",
+    "rightsBody": "Sie haben Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht, sich bei einer Aufsichtsbehörde zu beschweren. Bitte wenden Sie sich an die im Impressum genannte Adresse."
+  },
+  "admin": {
+    "title": "Hinweis bearbeiten",
+    "loginTitle": "Anmeldung",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "submit": "Anmelden",
+    "error": "Anmeldung fehlgeschlagen. Bitte Benutzername und Passwort prüfen.",
+    "current": "Aktueller Hinweis",
+    "empty": "Kein Hinweis aktiv.",
+    "deLabel": "Text auf Deutsch",
+    "enLabel": "Text auf Englisch",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "logout": "Abmelden",
+    "saved": "Hinweis gespeichert. Die Leiste auf der Startseite ist aktualisiert.",
+    "deleted": "Hinweis gelöscht. Die Leiste ist ausgeblendet.",
+    "hint": "Ohne gespeicherten Text gilt der Renovierungshinweis. Speichern ersetzt ihn. Löschen blendet die Leiste aus, bis wieder etwas gespeichert wird.",
+    "back": "Zur Startseite"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "text": "Dieser Pfad gehört nicht zur Website.",
+    "back": "Zur Startseite"
+  },
+  "announcement": {
+    "default": "Liebe Gäste, wegen Renovierungsarbeiten ist unser Imbiss ab heute nur für den To-Go-Verkauf geöffnet. Vor-Ort-Verzehr ist leider vorübergehend nicht möglich. Danke für eure Geduld und euer Verständnis! Euer Hanoi Imbiss Team"
+  },
+  "common": {
+    "currency": "€"
+  }
+}

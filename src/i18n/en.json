@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "homeTitle": "Hanoi Asia Imbiss | Vietnamese, Thai & Chinese food in Filderstadt",
+    "homeDescription": "Hanoi Asia Imbiss in Filderstadt: Vietnamese, Thai and Chinese cooking. Menu, opening hours and phone orders.",
+    "menuTitle": "Menu | Hanoi Asia Imbiss",
+    "menuDescription": "The menu at Hanoi Asia Imbiss: soups, noodles, rice, wok dishes, Vietnamese and Thai specials, vegetarian plates and drinks.",
+    "hoursTitle": "Opening Hours | Hanoi Asia Imbiss",
+    "hoursDescription": "Opening hours for Hanoi Asia Imbiss in Filderstadt: weekday lunch and evening, Sunday evening, closed on Saturday.",
+    "contactTitle": "Contact | Hanoi Asia Imbiss",
+    "contactDescription": "Hanoi Asia Imbiss, Harthäuser Hauptstraße 35, 70794 Filderstadt. Orders by phone only: 07158 98 68311.",
+    "imprintTitle": "Legal notice | Hanoi Asia Imbiss",
+    "imprintDescription": "Legal notice for Hanoi Asia Imbiss: Huynh Van Duc, Harthäuser Hauptstraße 35, 70794 Filderstadt.",
+    "privacyTitle": "Privacy | Hanoi Asia Imbiss",
+    "privacyDescription": "Privacy notice for the Hanoi Asia Imbiss website in Filderstadt.",
+    "adminTitle": "Admin | Hanoi Asia Imbiss",
+    "adminDescription": "Internal notice editor for the Hanoi Asia Imbiss website.",
+    "notFoundTitle": "Page not found | Hanoi Asia Imbiss",
+    "notFoundDescription": "This page does not exist on the Hanoi Asia Imbiss website."
+  },
+  "nav": {
+    "primary": "Main",
+    "home": "Home",
+    "menu": "Menu",
+    "hours": "Opening Hours",
+    "contact": "Contact",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skip": "Skip to content",
+    "homeLink": "Hanoi Asia Imbiss, back to home"
+  },
+  "hero": {
+    "eyebrow": "Filderstadt",
+    "title": "HANOI ASIA IMBISS",
+    "sub": "Vietnam – Thai – China specialities from the Far East",
+    "call": "Call now",
+    "menu": "View the menu",
+    "imageAlt": "Bowl of pho with beef, rice noodles, spring onion and herbs"
+  },
+  "facts": [
+    {
+      "title": "Cooked fresh",
+      "text": "Dishes are prepared fresh."
+    },
+    {
+      "title": "No glutamate",
+      "text": "We cook without glutamate when you ask."
+    },
+    {
+      "title": "Order by phone",
+      "text": "Orders are taken by phone only."
+    }
+  ],
+  "highlights": {
+    "eyebrow": "From the kitchen",
+    "title": "Eight classics",
+    "intro": "Dishes that define the kitchen. Names stay as printed on the German menu.",
+    "prev": "Previous highlight",
+    "next": "Next highlight",
+    "pause": "Pause automatic advance",
+    "items": {
+      "chicken": {
+        "name": "Knuspriges Hähnchen",
+        "description": "Crisp fried chicken breast, with noodles, rice, or from the wok.",
+        "alt": "Crispy fried chicken with a dipping sauce"
+      },
+      "rolls": {
+        "name": "Frühlingsrollen",
+        "description": "Summer rolls, spring rolls and vegetarian mini rolls.",
+        "alt": "Vietnamese summer rolls with prawns, rice noodles and two dipping sauces"
+      },
+      "noodles": {
+        "name": "Gebratene Nudeln",
+        "description": "Fried noodles with egg and vegetables, plain or with a crisp topping.",
+        "alt": "Stir-fried noodles with vegetables on a wooden plate"
+      },
+      "rice": {
+        "name": "Gebratener Reis",
+        "description": "Fried rice with egg and vegetables.",
+        "alt": "Plate of fried rice with egg, peas and vegetables"
+      },
+      "beef": {
+        "name": "Rindfleisch Spezial",
+        "description": "Beef from the wok, as pho, or in a Vietnamese bowl.",
+        "alt": "Sliced beef with herbs, chilli and peanuts"
+      },
+      "duck": {
+        "name": "Ente Knusprig",
+        "description": "With tomato, onion, pineapple, red curry and a hot tom yum sweet-and-sour sauce.",
+        "alt": "Sliced crispy duck with cucumber, leek, pancakes and sauces"
+      },
+      "curry": {
+        "name": "Vegetarisches Curry",
+        "description": "Vegetables in red curry with coconut milk, served with rice.",
+        "alt": "Red curry with vegetables, Thai basil and chilli"
+      },
+      "drinks": {
+        "name": "Getränke",
+        "description": "Mineral water, juices and soft drinks, plus beer and wine to take away.",
+        "alt": "Glass of iced tea with ice, lime and mint"
+      }
+    }
+  },
+  "hours": {
+    "eyebrow": "When we are open",
+    "title": "Opening Hours",
+    "intro": "Lunch and evening on weekdays, evening on Sundays and public holidays. The kitchen is closed on Saturdays.",
+    "note": "For celebrations we can be reached outside these hours by arrangement.",
+    "closedLabel": "Closed",
+    "slots": [
+      { "id": "week", "label": "Mon–Fri", "value": "11:00–14:00 and 17:00–21:00", "closed": false },
+      { "id": "sun", "label": "Sun & public holidays", "value": "17:00–21:00", "closed": false },
+      { "id": "sat", "label": "Saturday", "value": "closed", "closed": true }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Order",
+    "title": "Contact",
+    "intro": "Orders by phone only. There is no online ordering.",
+    "phoneLabel": "Phone",
+    "call": "Call now",
+    "addressLabel": "Address",
+    "emailLabel": "Email",
+    "mapTitle": "Map: Hanoi Asia Imbiss, Harthäuser Hauptstraße 35, 70794 Filderstadt",
+    "party": "For parties and the catering service, please call.",
+    "takeaway": "Every dish is also available to take away."
+  },
+  "home": {
+    "hoursCta": "All hours",
+    "visitTitle": "Visit or call",
+    "visitText": "The imbiss is on Harthäuser Hauptstraße in Filderstadt. A phone call is enough to order."
+  },
+  "menu": {
+    "eyebrow": "The card",
+    "title": "Menu",
+    "intro": "Dishes stay in the wording of the printed German menu. Variants with their own price are separate rows.",
+    "searchLabel": "Search the menu",
+    "searchPlaceholder": "e.g. Nudeln",
+    "sortLabel": "Sort by",
+    "sortNumber": "Number",
+    "sortName": "Name",
+    "sortPrice": "Price",
+    "dish": "dish",
+    "dishes": "dishes",
+    "empty": "No dishes match this search.",
+    "colNumber": "No.",
+    "colName": "Dish",
+    "colDescription": "Description",
+    "colCategory": "Category",
+    "colPrice": "Price",
+    "filtersLabel": "Filter",
+    "vat": "Dining in is subject to an additional 19% VAT.",
+    "wish": "We cook to your taste. Please ask.",
+    "legendTitle": "Additives and allergens",
+    "legendAdditives": "Additives",
+    "legendAllergens": "Allergens",
+    "legendNote": "Not every ingredient can be listed. Please tell us when you order if you have an allergy or intolerance.",
+    "additives": [
+      { "code": "1", "label": "Flavour enhancer" },
+      { "code": "2", "label": "Colouring" },
+      { "code": "3", "label": "Preservative" },
+      { "code": "4", "label": "Citric acid" },
+      { "code": "5", "label": "Antioxidant" },
+      { "code": "6", "label": "Contains caffeine" },
+      { "code": "7", "label": "Sweetener" },
+      { "code": "8", "label": "Phosphoric acid" }
+    ],
+    "allergens": [
+      { "code": "a", "label": "Cereals containing gluten" },
+      { "code": "b", "label": "Crustaceans" },
+      { "code": "c", "label": "Fish" },
+      { "code": "d", "label": "Peanuts" },
+      { "code": "e", "label": "Soy" },
+      { "code": "f", "label": "Eggs" }
+    ]
+  },
+  "filters": {
+    "all": "All",
+    "Vegetarisch": "Vegetarian",
+    "Fleisch": "Meat",
+    "Hähnchen": "Chicken",
+    "Ente": "Duck",
+    "Suppen & Vorspeisen": "Soups & starters",
+    "Hauptspeisen": "Mains",
+    "Japanische Nudeln": "Japanese noodles",
+    "Chinesische Wok-Speisen": "Chinese wok",
+    "Vietnamesische Spezialitäten": "Vietnamese specialities",
+    "Thailändische Gerichte": "Thai dishes",
+    "Vegetarische Gerichte": "Vegetarian dishes",
+    "Extras": "Extras",
+    "Nachspeise": "Dessert",
+    "Getränke": "Drinks",
+    "Alkoholfrei": "Non-alcoholic",
+    "Bier": "Beer",
+    "Wein": "Wine"
+  },
+  "footer": {
+    "blurb": "Vietnam, Thai and China. Far Eastern specialities in Filderstadt.",
+    "hours": "Opening Hours",
+    "contact": "Contact",
+    "imprint": "Legal notice",
+    "privacy": "Privacy",
+    "rights": "© Hanoi Asia Imbiss"
+  },
+  "imprint": {
+    "title": "Legal notice",
+    "intro": "Details as published on hanoi-asia-imbiss.de.",
+    "missing": "A register entry and a VAT identification number are not published there."
+  },
+  "privacy": {
+    "title": "Privacy",
+    "controllerTitle": "Controller",
+    "controllerBody": "The controller for this website is the owner named on the legal notice page.",
+    "siteTitle": "This website",
+    "siteBody": "These pages show the menu, opening hours and contact details. There is no online ordering and no guest account. No analytics or advertising tools are used.",
+    "hostTitle": "Hosting",
+    "hostBody": "When you open the site, the hosting provider may process connection data that is technically required, in particular the IP address, date and time, and the address requested. The legal basis is Article 6 (1) (f) GDPR, the operation and security of the website.",
+    "localTitle": "Local storage",
+    "localBody": "This browser can store the chosen language and a notice for the bar above the navigation. After a sign-in to the unlinked admin area, a session flag is stored on that device as well. No order data is sent. You can delete these entries in your browser settings.",
+    "mapTitle": "Map",
+    "mapBody": "The contact page embeds a Google map. When it loads, Google Ireland Limited may process the IP address and set cookies.",
+    "google": "Google privacy policy",
+    "phoneTitle": "Phone",
+    "phoneBody": "Tapping a number opens the phone app on your device. No form is sent through this website.",
+    "rightsTitle": "Your rights",
+    "rightsBody": "You have the right to access, rectification, erasure, restriction, data portability and objection, and the right to lodge a complaint with a supervisory authority. Please contact the address given in the legal notice."
+  },
+  "admin": {
+    "title": "Edit the notice",
+    "loginTitle": "Sign in",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Sign in",
+    "error": "Sign-in failed. Check the username and password.",
+    "current": "Current notice",
+    "empty": "No notice is active.",
+    "deLabel": "German text",
+    "enLabel": "English text",
+    "save": "Save",
+    "delete": "Delete",
+    "logout": "Log out",
+    "saved": "Notice saved. The bar on the homepage is updated.",
+    "deleted": "Notice deleted. The bar is hidden.",
+    "hint": "Until a notice is saved, the renovation message is shown. Save replaces it. Delete hides the bar until you save again.",
+    "back": "Back to home"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "This path is not part of the website.",
+    "back": "Back to home"
+  },
+  "announcement": {
+    "default": "Dear guests, please note that our diner is currently undergoing renovations. Starting today, we are serving take-out only, and indoor dining is temporarily closed. Thank you for your patience and understanding! Your Hanoi Imbiss Team"
+  },
+  "common": {
+    "currency": "€"
+  }
+}
