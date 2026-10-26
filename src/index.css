@@ -302,7 +302,7 @@ button {
 
 .hero {
   position: relative;
-  min-height: calc(100svh - var(--header));
+  min-height: calc(100svh - var(--header-offset, var(--header)));
   display: grid;
   align-items: end;
   color: #fffaf3;
@@ -1048,6 +1048,16 @@ button {
 .admin-back {
   margin-top: 1rem;
   margin-bottom: 0;
+}
+
+@media (max-width: 719px) {
+  .hero-content {
+    padding: 1.25rem 0 1.15rem;
+  }
+
+  .hero-actions .btn {
+    padding-inline: 1rem;
+  }
 }
 
 @media (min-width: 720px) {

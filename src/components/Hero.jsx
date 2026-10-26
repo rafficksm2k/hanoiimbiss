@@ -29,6 +29,13 @@ export function Hero() {
           <Link className="btn btn-ghost" to="/speisekarte">
             {t("hero.menu")}
           </Link>
+          <a
+            className="btn btn-ghost"
+            href="/Hanoi_Speisekarte.pdf"
+            download="Hanoi_Speisekarte.pdf"
+          >
+            {t("hero.download")}
+          </a>
         </div>
       </div>
     </section>

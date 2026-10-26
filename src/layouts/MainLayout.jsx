@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useLayoutEffect } from "react";
 import { Outlet, useLocation } from "react-router-dom";
 import { AnnouncementBar } from "../components/AnnouncementBar";
 import { Footer } from "../components/Footer";
@@ -15,6 +15,21 @@ function ScrollToTop() {
 
 export function MainLayout() {
   const { t } = useI18n();
+
+  useLayoutEffect(() => {
+    const header = document.querySelector(".site-header");
+    if (!header) return undefined;
+    const apply = () => {
+      document.documentElement.style.setProperty(
+        "--header-offset",
+        `${header.getBoundingClientRect().height}px`,
+      );
+    };
+    apply();
+    const observer = new ResizeObserver(apply);
+    observer.observe(header);
+    return () => observer.disconnect();
+  }, []);
 
   return (
     <>
