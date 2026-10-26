@@ -94,8 +94,7 @@ export function FoodCarousel() {
       if (!tracking) return;
       const dx = event.touches[0].clientX - startX;
       const dy = event.touches[0].clientY - startY;
-      if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 8)
-        event.preventDefault();
+      if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 8) event.preventDefault();
     };
     const onEnd = (event) => {
       if (!tracking) return;
@@ -117,11 +116,7 @@ export function FoodCarousel() {
   }, []);
 
   function onTransitionEnd(event) {
-    if (
-      event.target !== event.currentTarget ||
-      event.propertyName !== "transform"
-    )
-      return;
+    if (event.target !== event.currentTarget || event.propertyName !== "transform") return;
     if (index >= highlights.length) {
       setAnimate(false);
       setIndex(0);
@@ -129,10 +124,7 @@ export function FoodCarousel() {
   }
 
   return (
-    <section
-      className="section carousel-section"
-      aria-roledescription="carousel"
-    >
+    <section className="section carousel-section" aria-roledescription="carousel">
       <div className="section-head">
         <p className="eyebrow">{t("highlights.eyebrow")}</p>
         <h2>{t("highlights.title")}</h2>
@@ -150,21 +142,14 @@ export function FoodCarousel() {
             className="carousel-track"
             style={{
               gap: `${GAP}px`,
-              transform: step
-                ? `translate3d(${-index * step}px, 0, 0)`
-                : undefined,
-              transition:
-                animate && !reduced
-                  ? "transform 560ms cubic-bezier(.22,.7,.3,1)"
-                  : "none",
+              transform: step ? `translate3d(${-index * step}px, 0, 0)` : undefined,
+              transition: animate && !reduced ? "transform 560ms cubic-bezier(.22,.7,.3,1)" : "none",
             }}
             onTransitionEnd={onTransitionEnd}
           >
             {slides.map((item, slideIndex) => {
               const copy = dict.highlights.items[item.id];
-              const dish = item.menuNumber
-                ? findDish(item.menuNumber, item.menuName)
-                : null;
+              const dish = item.menuNumber ? findDish(item.menuNumber, item.menuName) : null;
               const price = dish?.price || "";
               return (
                 <article
@@ -174,13 +159,7 @@ export function FoodCarousel() {
                   aria-hidden={slideIndex >= highlights.length}
                 >
                   <div className="slide-media">
-                    <img
-                      src={item.image}
-                      alt={copy.alt}
-                      width="1200"
-                      height="900"
-                      loading="lazy"
-                    />
+                    <img src={item.image} alt={copy.alt} width="1200" height="900" loading="lazy" />
                   </div>
                   <div className="slide-body">
                     <h3>{copy.name}</h3>
@@ -197,20 +176,10 @@ export function FoodCarousel() {
           </div>
         </div>
         <div className="carousel-controls">
-          <button
-            type="button"
-            className="icon-btn"
-            onClick={goPrev}
-            aria-label={t("highlights.prev")}
-          >
+          <button type="button" className="icon-btn" onClick={goPrev} aria-label={t("highlights.prev")}>
             ‹
           </button>
-          <button
-            type="button"
-            className="icon-btn"
-            onClick={goNext}
-            aria-label={t("highlights.next")}
-          >
+          <button type="button" className="icon-btn" onClick={goNext} aria-label={t("highlights.next")}>
             ›
           </button>
         </div>

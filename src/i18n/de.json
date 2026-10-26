@@ -31,7 +31,7 @@
   },
   "hero": {
     "eyebrow": "Filderstadt",
-    "title": "HANOI ASIA IMBISS",
+    "title": "HANOI-ASIA IMBISS",
     "sub": "Vietnam – Thai – China Spezialitäten aus Fernost",
     "call": "Jetzt Anrufen",
     "menu": "Speisekarte ansehen",
@@ -95,10 +95,10 @@
         "description": "Gemüse in rotem Curry mit Kokosmilch, dazu Reis.",
         "alt": "Rotes Curry mit Gemüse, Thai-Basilikum und Chili"
       },
-      "drinks": {
-        "name": "Getränke",
-        "description": "Mineralwasser, Säfte, Softdrinks, dazu Bier und Wein zum Mitnehmen.",
-        "alt": "Glas Eistee mit Eis, Limette und Minze"
+      "bun": {
+        "name": "Vietnamesische Bun Bowl",
+        "description": "Reisnudeln mit frischen Kräutern, Gemüse, Erdnüssen und Limetten-Soße.",
+        "alt": "Vietnamesische Bun Bowl mit Reisnudeln, Tofu, Karotten, Gurke, Kräutern, Erdnüssen und Limette"
       }
     }
   },

@@ -95,10 +95,10 @@
         "description": "Vegetables in red curry with coconut milk, served with rice.",
         "alt": "Red curry with vegetables, Thai basil and chilli"
       },
-      "drinks": {
-        "name": "Getränke",
-        "description": "Mineral water, juices and soft drinks, plus beer and wine to take away.",
-        "alt": "Glass of iced tea with ice, lime and mint"
+      "bun": {
+        "name": "Vietnamese bun bowl",
+        "description": "Rice noodles with fresh herbs, vegetables, peanuts and lime sauce.",
+        "alt": "Vietnamese bun bowl with rice noodles, tofu, carrot, cucumber, herbs, peanuts and lime"
       }
     }
   },

@@ -5,7 +5,7 @@ import rice from "../assets/rice.jpg";
 import beef from "../assets/beef.jpg";
 import duck from "../assets/duck.jpg";
 import curry from "../assets/curry.jpg";
-import drinks from "../assets/drinks.jpg";
+import bunbowl from "../assets/bunbowl.jpg";
 
 /* Freely licensed photos (Unsplash, duck via Pexels). Not from hanoi-asia-imbiss.de. */
 export const highlights = [
@@ -21,5 +21,5 @@ export const highlights = [
     menuNumber: "73",
     menuName: "Verschiedenes Gemüse in rotem Curry",
   },
-  { id: "drinks", image: drinks },
+  { id: "bun", image: bunbowl },
 ];
