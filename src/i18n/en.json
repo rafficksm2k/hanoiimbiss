@@ -66,7 +66,7 @@
         "alt": "Crispy fried chicken with a dipping sauce"
       },
       "rolls": {
-        "name": "Frühlingsrollen",
+        "name": "Summer Rolls",
         "description": "Summer rolls, spring rolls and vegetarian mini rolls.",
         "alt": "Vietnamese summer rolls with prawns, rice noodles and two dipping sauces"
       },
@@ -109,9 +109,24 @@
     "note": "For celebrations we can be reached outside these hours by arrangement.",
     "closedLabel": "Closed",
     "slots": [
-      { "id": "week", "label": "Mon–Fri", "value": "11:00–14:00 and 17:00–21:00", "closed": false },
-      { "id": "sun", "label": "Sun & public holidays", "value": "17:00–21:00", "closed": false },
-      { "id": "sat", "label": "Saturday", "value": "closed", "closed": true }
+      {
+        "id": "week",
+        "label": "Mon–Fri",
+        "value": "11:00–14:00 and 17:00–21:00",
+        "closed": false
+      },
+      {
+        "id": "sun",
+        "label": "Sun & public holidays",
+        "value": "17:00–21:00",
+        "closed": false
+      },
+      {
+        "id": "sat",
+        "label": "Saturday",
+        "value": "closed",
+        "closed": true
+      }
     ]
   },
   "contact": {
@@ -157,22 +172,64 @@
     "legendAllergens": "Allergens",
     "legendNote": "Not every ingredient can be listed. Please tell us when you order if you have an allergy or intolerance.",
     "additives": [
-      { "code": "1", "label": "Flavour enhancer" },
-      { "code": "2", "label": "Colouring" },
-      { "code": "3", "label": "Preservative" },
-      { "code": "4", "label": "Citric acid" },
-      { "code": "5", "label": "Antioxidant" },
-      { "code": "6", "label": "Contains caffeine" },
-      { "code": "7", "label": "Sweetener" },
-      { "code": "8", "label": "Phosphoric acid" }
+      {
+        "code": "1",
+        "label": "Flavour enhancer"
+      },
+      {
+        "code": "2",
+        "label": "Colouring"
+      },
+      {
+        "code": "3",
+        "label": "Preservative"
+      },
+      {
+        "code": "4",
+        "label": "Citric acid"
+      },
+      {
+        "code": "5",
+        "label": "Antioxidant"
+      },
+      {
+        "code": "6",
+        "label": "Contains caffeine"
+      },
+      {
+        "code": "7",
+        "label": "Sweetener"
+      },
+      {
+        "code": "8",
+        "label": "Phosphoric acid"
+      }
     ],
     "allergens": [
-      { "code": "a", "label": "Cereals containing gluten" },
-      { "code": "b", "label": "Crustaceans" },
-      { "code": "c", "label": "Fish" },
-      { "code": "d", "label": "Peanuts" },
-      { "code": "e", "label": "Soy" },
-      { "code": "f", "label": "Eggs" }
+      {
+        "code": "a",
+        "label": "Cereals containing gluten"
+      },
+      {
+        "code": "b",
+        "label": "Crustaceans"
+      },
+      {
+        "code": "c",
+        "label": "Fish"
+      },
+      {
+        "code": "d",
+        "label": "Peanuts"
+      },
+      {
+        "code": "e",
+        "label": "Soy"
+      },
+      {
+        "code": "f",
+        "label": "Eggs"
+      }
     ]
   },
   "filters": {
