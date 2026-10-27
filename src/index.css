@@ -118,6 +118,7 @@ button {
 }
 
 .announce {
+  position: static;
   display: flex;
   gap: 0.75rem;
   align-items: flex-start;
@@ -1057,6 +1058,10 @@ button {
 
   .hero-actions .btn {
     padding-inline: 1rem;
+  }
+
+  .facts {
+    margin-top: 1.15rem;
   }
 }
 
